@@ -1,0 +1,3 @@
+load("/Users/elif/Desktop/Forestfires/data/Algerian_forest_fires_dataset_UPDATE.rds")
+load("/Users/elif/Desktop/Forestfires/data/forestfires.rds")
+load("/Users/elif/Desktop/Forestfires/data/Algerian_forest_fires_dataset_UPDATE.rds")
